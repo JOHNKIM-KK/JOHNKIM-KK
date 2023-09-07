@@ -2,14 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?text=Myung%Jun%Kim&type=Cylinder&fontColor=ffffff&animation=blink&color=000000)
 
-# History
+## History
 
 ### N.CODE, Front-End Developer (2022~ )
 ### Uno-Solution, Front-End Developer (2021~2022)
 ### IBiz, Front-End Developer(2021)
 
 ## Tech Skill
-
 
 <div >
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> 
