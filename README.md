@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?text=Myung%Jun%Kim&type=Cylinder&fontColor=ffffff&animation=blink&color=000000)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHNKIM-KK&langs_count=10&layout=compact&theme=dark)](https://github.com/JOHNKIM-KK/JOHNKIM-KK)﻿
+
+
 ## History
 
 ### N.CODE, Front-End Developer (2022~ )
