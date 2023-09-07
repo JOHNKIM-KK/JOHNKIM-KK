@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?text=Myung%Jun%Kim&type=Cylinder&fontColor=ffffff&animation=blink&color=000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHNKIM-KK&langs_count=10&layout=compact&theme=dark)](https://github.com/JOHNKIM-KK/JOHNKIM-KK)﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHNKIM-KK&langs_count=10&layout=compact&theme=dark)](https://github.com/JOHNKIM-KK/JOHNKIM-KK)
+
+velog:﻿[Blog](https://velog.io/@zhd5379)
 
 
 ## History
