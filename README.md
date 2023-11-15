@@ -5,7 +5,8 @@
   
 ## History
 
-### N.CODE, Front-End Developer (2022~ )
+### Korea Deep Learning, Front-End Developer (2023~ )
+### N.CODE, Front-End Developer (2022~2023)
 ### Uno-Solution, Front-End Developer (2021~2022)
 ### IBiz, Front-End Developer(2021)
 
